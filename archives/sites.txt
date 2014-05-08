@@ -1,1 +1,6 @@
 www.google.com
+www.playinthebay.com
+www.cnn.com
+www.espn.com
+www.yahoo.com
+www.youtube.com
