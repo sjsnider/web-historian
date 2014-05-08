@@ -4,3 +4,4 @@ www.cnn.com
 www.espn.com
 www.yahoo.com
 www.youtube.com
+www.latimes.com

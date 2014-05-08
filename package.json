@@ -6,7 +6,8 @@
   "license": "Copyright 2013, Hack Reactor. All rights reserved.",
   "dependencies": {
     "cron": "^1.0.4",
-    "http-request": "^0.6.2"
+    "http-request": "^0.6.2",
+    "time": "^0.10.0"
   },
   "devDependencies": {
     "request": "^2.34.0",
